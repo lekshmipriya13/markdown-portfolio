@@ -1,2 +1,3 @@
-This image is a car
-https://images.app.goo.gl/gBHtz2jnEpRNDbSo9
+This is an image of yaktocat
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
