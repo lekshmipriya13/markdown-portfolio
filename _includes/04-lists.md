@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+My favourite things
+- 🐱
+- 🌼
+- 📸
+- 🎓
+- In order these are my favourite icecreams
+- Chocolate 
+- Vannila
+- Strawberry
